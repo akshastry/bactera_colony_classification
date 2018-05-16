@@ -26,4 +26,5 @@ All the images should be extracted to a folder named 'Bacteria'. This folder the
 
 ## Author
 Abhishek Kumar Shasty 
+
 Email: shastry@umd.edu
