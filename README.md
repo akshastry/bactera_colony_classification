@@ -14,4 +14,13 @@ The code is written in Python and uses the following packages:
 6. PIL
 7. Open CV
 8. Glob
+9. Matplotlib
+
+## Dataset
+
+The images can be downloaded from here: http://misztal.edu.pl/software/databases/dibas/
+
+All the images should be extracted to a folder named 'Bacteria'. This folder the should be in the same folder as the code.
+
+## Video Demo
 
