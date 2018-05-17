@@ -23,6 +23,7 @@ The images can be downloaded from here: http://misztal.edu.pl/software/databases
 All the images should be extracted to a folder named 'Bacteria'. This folder the should be in the same folder as the code.
 
 ## Video Demo
+https://youtu.be/CPWnCadNgZM
 
 ## Author
 Abhishek Kumar Shasty 
